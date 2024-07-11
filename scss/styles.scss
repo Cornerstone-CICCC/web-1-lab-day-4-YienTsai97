@@ -56,4 +56,19 @@ body {
       }
     }
   }
+  #employees{
+    thead{
+      background-color: rgb(131, 131, 131);
+      th{
+        padding:0px 20px;
+        text-align: center;
+      }
+    }
+    td{
+      background-color: #ccc;
+      padding:20px;
+      text-align: center;
+    }
+  }
 }
+

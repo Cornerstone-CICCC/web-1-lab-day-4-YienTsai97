@@ -51,5 +51,17 @@ body {
   flex: 1;
   padding: 0.25rem;
 }
+.container #employees thead {
+  background-color: rgb(131, 131, 131);
+}
+.container #employees thead th {
+  padding: 0px 20px;
+  text-align: center;
+}
+.container #employees td {
+  background-color: #ccc;
+  padding: 20px;
+  text-align: center;
+}
 
 /*# sourceMappingURL=styles.css.map */
